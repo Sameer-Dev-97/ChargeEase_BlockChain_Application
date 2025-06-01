@@ -61,16 +61,8 @@ Payment handling (with escrow features)
 
 Immutable transaction history
 
-Smart contracts are deployed on [specify network, e.g., Ethereum Goerli Testnet / Polygon Mumbai].
 
-📱 Mobile App
-The ChargeEase mobile app is available on:
 
-✅ Android (via APK / Play Store)
-
-✅ iOS (via TestFlight / App Store)
-
-(Add links if published)
 
 🧪 Testing
 To run unit tests:
